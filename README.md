@@ -1,3 +1,12 @@
+# Create project wiht a specific version of `Hardhat`
+let's say I am using `hardhat version of 2.8.3`
+```
+npm install --save-dev hardhat@2.8.3
+```
+```
+yarn add --dev hardhat@2.8.3
+```
+
 # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
