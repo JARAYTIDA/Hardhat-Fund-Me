@@ -1,5 +1,5 @@
 # Create project wiht a specific version of `Hardhat`
-let's say I am using `hardhat version of 2.8.3`
+let's say I am using `hardhat version 2.8.3`
 ```
 npm install --save-dev hardhat@2.8.3
 ```
